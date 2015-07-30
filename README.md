@@ -2,3 +2,4 @@
 Some readme content.
 try.github.com
 git-scm.com
+rogerdudler.github.io/git-guide/
